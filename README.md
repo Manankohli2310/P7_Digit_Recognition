@@ -146,6 +146,7 @@ Streamlit App:
 YouTube Demo:
 
 [YouTube Link](https://youtu.be/sQwRFJeJIvU)
+
 ---
 
 ## 📷 Application Workflow
