@@ -145,8 +145,7 @@ Streamlit App:
 
 YouTube Demo:
 
-[Add Your YouTube Video Link Here]
-
+[YouTube Link](https://youtu.be/sQwRFJeJIvU)
 ---
 
 ## 📷 Application Workflow
