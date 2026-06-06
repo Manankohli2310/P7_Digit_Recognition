@@ -1,8 +1,8 @@
-# ✍️ Handwritten Digit Recognition using SVM and MNIST Dataset
+# ✍️ Digit Recognition using SVM and MNIST Dataset
 
 ## 📌 Project Overview
 
-This project is a Machine Learning-based Handwritten Digit Recognition System that predicts digits from 0 to 9 using the MNIST dataset and a Support Vector Machine (SVM) classifier. Users can draw a digit on an interactive Streamlit canvas, and the trained model predicts the digit in real time.
+This project is a Machine Learning-based Digit Recognition System that predicts digits from 0 to 9 using the MNIST dataset and a Support Vector Machine (SVM) classifier. Users can draw a digit on an interactive Streamlit canvas, and the trained model predicts the digit in real time.
 
 The system uses image preprocessing techniques to convert user drawings into MNIST-style 28×28 grayscale images before making predictions. This improves the model's ability to recognize handwritten digits accurately.
 
@@ -67,7 +67,7 @@ This reduced training time while maintaining high classification accuracy.
 
 ## 📂 Project Structure
 
-Handwritten_Digit_Recognition_SVM/
+Digit_Recognition/
 
 ├── model/
 
@@ -137,11 +137,7 @@ The model performs exceptionally well across most digit classes, with minor conf
 
 Streamlit App:
 
-[Add Your Streamlit Deployment Link Here]
-
-Example:
-
-https://your-app-name.streamlit.app
+[Digit_Recognition](https://p7digitrecognition.streamlit.app/)
 
 ---
 
@@ -150,10 +146,6 @@ https://your-app-name.streamlit.app
 YouTube Demo:
 
 [Add Your YouTube Video Link Here]
-
-Example:
-
-https://www.youtube.com/watch?v=YOUR_VIDEO_ID
 
 ---
 
